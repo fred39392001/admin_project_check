@@ -46,3 +46,19 @@
 .card-button:active{
   background-color: #f8f9fa;
 }
+
+.table-width-s{
+  min-width: 80px;
+}
+
+.table-width-m{
+  min-width: 160px;
+}
+
+.table-width-l{
+  min-width: 240px;
+}
+
+.table-width-xl{
+  min-width: 320px;
+}
